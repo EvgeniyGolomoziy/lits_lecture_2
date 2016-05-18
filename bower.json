@@ -1,0 +1,20 @@
+{
+  "name": "Y",
+  "homepage": "https://github.com/EvgeniyGolomoziy/lits_lecture_2",
+  "description": "first commit",
+  "main": "",
+  "keywords": [
+    "Lits"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
